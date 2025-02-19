@@ -36,8 +36,8 @@ Key Features
 Note: Portions of the plotting script were generated with assistance from ChatGPT.
 
 
-Usage
-Save file to a local directory and run the script directly to simulate linear devices with predefined parameters:
+Usage: 
+Save file to a local directory and run the script directly to simulate linear devices with predefined parameters. For example:
 `python unitary_homodyne_heterodyne.py`
 By default, the script:
 - Simulates devices with 1 to 20 modes.
@@ -45,7 +45,7 @@ By default, the script:
 - Runs 50 trials per device mode.
 - Logs results to CSV files.
 
-Simulation results will be recorded to csv files in the same directory that you have the .py file saved to. In order to graph results, the `plot_reconstructions.py` file must be saved in the same directory.
+Simulation results will be recorded to csv files in the same directory that you have the .py file saved to. In order to graph results, the `plot_reconstructions.py` file must be saved in the same directory and run.
 
 Generating Plots
 - To generate plots, modify plot_reconstructions.py to include the correct CSV file paths, then execute:
