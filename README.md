@@ -33,7 +33,7 @@ Key Features
 - Error Bar Plots: Visualizes reconstruction trends across different device mode sizes for varying loss levels.
 - Batch Processing: Supports automatic extraction and visualization from multiple CSV files.
 
-Note: Portions of the plotting script were generated with assistance from ChatGPT.
+Note: Portions of the plotting script were generated with assistance from OpenAI's ChatGPT-4o (accessed Feb., 2025).
 
 
 Usage: 
